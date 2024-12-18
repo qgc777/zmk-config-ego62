@@ -18,7 +18,7 @@
 &kp EQUAL     &kp N1     &kp N2     &kp N3     &kp N4    &kp N5                   &kp N6     &kp N7    &kp N8     &kp N9         &kp N0         &kp MINUS
 &kp TAB       &kp Q      &kp W      &kp R      &kp E     &kp T                    &kp I      &kp U     &kp O      &kp Y          &kp P          &kp BACKSLASH
 &kp CAPSLOCK  &kp F      &kp S      &kp D      &kp A     &kp G                    &kp H      &kp J     &kp L      &kp K          &kp SEMICOLON  &kp SQT
-&kp LSHFT     &kp Z      &kp X      &kp C      &kp Z     &kp B                    &kp N      &kp M     &kp COMMA  &kp DOT        &kp FSLH       &kp RSHIFT
+&kp LSHFT     &kp V      &kp X      &kp C      &kp Z     &kp B                    &kp N      &kp M     &kp COMMA  &kp DOT        &kp FSLH       &kp RSHIFT
 &kp LEFT      &kp RIGHT  &kp SPACE  &kp ENTER  &kp LALT  &mo 1   &kp LGUI  &mo 1  &kp ENTER  &kp RALT  &kp RCTRL  &kp BACKSPACE  &kp LBKT       &kp RBKT
             >;
 
